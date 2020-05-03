@@ -1,0 +1,9 @@
+name:
+     This is from YML files
+conditions:
+    values:
+        options:
+          ScenarioOne,ScenarioTwo,ScenarioFive
+          
+boolean1 : true
+boolean2 : 'false'
